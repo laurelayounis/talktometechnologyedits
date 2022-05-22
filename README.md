@@ -1,3 +1,5 @@
+
+
 # Talk to Me Technology
 
 Talk to me technology is a open source communication board to give access to every person who needs assistance with verbal communcation by providing a free AAC digital communication board. The Goal of this project is to eliminate economic barriers and paywalls for those who require this assistive technology.
@@ -61,6 +63,26 @@ The project will have feature based iterations that will be released throughout 
 * Tips card: to offer tips on how to navigate the platform easily.
 
 * Personalization feature: that allows users to indicate their areas of specialty and specializations to help model the look and feel of their space or profile on the web app
+
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript
+
+ Created with HTML, CSS & Vanilla JS with the speech synth api  
+ Will be refactored in React with a Node js backend 
+ 
+## Optimizations
+
+Drag and drop features  
+Create custom tile features  
+Integrate ability to use with IM & phone calls  
+Create user login so users can create their own custom boards  
+
+## Lessons Learned:
+
+To provide the future features and capabilities we need for their users I need to rebuild / refactor the project in React.  
+I also learned that different browsers interact with the speech api in various ways so the app needs to be cross browser tested.
 
 ## Setup
 
